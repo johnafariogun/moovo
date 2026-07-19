@@ -11,3 +11,4 @@ google-auth==2.41.1
 google-auth-oauthlib==1.2.3
 psycopg2-binary==2.9.11
 requests==2.31.0
+uvicorn==0.38.0
